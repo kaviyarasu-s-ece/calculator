@@ -1,0 +1,277 @@
+
+        body
+        {
+            background-color: #1c1c1c;
+            display: flex;
+            align-items: center;
+            justify-content: center;height: 100vh;
+            color:white;
+            font-size: 1.5rem;
+        }
+
+        .cont
+        {
+            display:grid;
+            width:330px;
+            height:580px;
+            padding: 30px;
+            grid-template-columns: 75px 75px 75px 75px;
+            grid-template-rows:140px 75px 75px 75px 75px 75px;
+            row-gap: 10px;
+            column-gap: 10px;
+            border: 1px solid grey;
+            border-radius: 40px;
+        }
+        .box
+        {
+            height:130px;
+            width:330px;
+            background-color:#2E2F32;
+            grid-column: 1/-1;
+            border:1px solid grey ;
+            border-radius: 20px;
+             }
+
+        .div0
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .div1
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+
+        }
+         .div2
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+
+        }
+         .div3
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+
+        }
+         .div4
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .div5
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .div6
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .div7
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .div8
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .div9
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .ac
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .br
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .mod
+        {
+         width: 75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .di
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+         .mul
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+        .minus
+        {
+         width:75px;
+         height:75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+        .plus
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+        .dot
+        {
+         width:75px;
+         height:75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+        .cancel
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
+        .equal
+        {
+         width:75px;
+         height: 75px;
+         background-color: #2E2F32;
+         color:white;
+         display:flex;
+         align-items: center;
+         justify-content: center;
+        border-radius: 50%;
+        border:1px solid grey;
+        }
