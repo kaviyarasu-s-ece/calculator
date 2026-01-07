@@ -6,9 +6,8 @@
             align-items: center;
             justify-content: center;height: 100vh;
             color:white;
-            font-size: 1.5rem;
+            font-size: 2rem;
         }
-
         .cont
         {
             display:grid;
@@ -19,8 +18,9 @@
             grid-template-rows:140px 75px 75px 75px 75px 75px;
             row-gap: 10px;
             column-gap: 10px;
-            border: 1px solid grey;
+            border: 2px solid grey;
             border-radius: 40px;
+             
         }
         .box
         {
@@ -30,21 +30,11 @@
             grid-column: 1/-1;
             border:1px solid grey ;
             border-radius: 20px;
-             }
-
-        .div0
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
+            display:flex;
+            justify-content: center;
+            align-items: center;
         }
-         .div1
+         .div0,.div1,.div2,.div3,.div4,.div5,.div5,.div6,.div7,.div8,.div9
         {
          width:75px;
          height: 75px;
@@ -55,202 +45,42 @@
          justify-content: center;
         border-radius: 50%;
         border:1px solid grey;
+        font-size: 2rem;
+        font-family: sans-serif;
 
         }
-         .div2
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
 
-        }
-         .div3
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-
-        }
-         .div4
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-         .div5
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-         .div6
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-         .div7
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-         .div8
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-         .div9
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
          .ac
         {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
+        width:75px;
+        height: 75px;
+        background-color: #245aba;
+        color:white;
+        display:flex;
+        align-items: center;
+        justify-content: center;
         border-radius: 50%;
         border:1px solid grey;
+        font-size: 2rem;
+        font-family: sans-serif;
         }
-         .br
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-         .mod
+      
+         .mod,.di,.plus,.br,.mul,.minus,.dot
         {
          width: 75px;
          height: 75px;
-         background-color: #2E2F32;
+         background-color: #4A4A4A;
          color:white;
          display:flex;
          align-items: center;
          justify-content: center;
         border-radius: 50%;
         border:1px solid grey;
+          font-size: 2rem;
+        font-family: sans-serif;
         }
-         .di
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-         .mul
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-        .minus
-        {
-         width:75px;
-         height:75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-        .plus
-        {
-         width:75px;
-         height: 75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
-        .dot
-        {
-         width:75px;
-         height:75px;
-         background-color: #2E2F32;
-         color:white;
-         display:flex;
-         align-items: center;
-         justify-content: center;
-        border-radius: 50%;
-        border:1px solid grey;
-        }
+      
+        
         .cancel
         {
          width:75px;
@@ -262,16 +92,19 @@
          justify-content: center;
         border-radius: 50%;
         border:1px solid grey;
+        font-size: 2rem;
+         font-family: sans-serif;
         }
         .equal
         {
          width:75px;
          height: 75px;
-         background-color: #2E2F32;
+         background-color: #b957b9;
          color:white;
          display:flex;
          align-items: center;
          justify-content: center;
         border-radius: 50%;
         border:1px solid grey;
+        font-size: 2rem;
         }
